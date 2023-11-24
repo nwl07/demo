@@ -5,21 +5,78 @@
       "username": "Oleg666",
       "email": "",
       "password": "password1",
-
+      "stuff_list":[
+        {
+          "name":"Ложка",
+          "info":"Большая такая (крупная).",
+          "date":"",
+          "photo":""
+        },
+        {
+          "name":"Вилка",
+          "info":"Маленькая такая (ну маленькая).",
+          "date":"",
+          "photo":""
+        },
+        {
+          "name":"Вложка",
+          "info":"Средние размеры.",
+          "date":"",
+          "photo":""
+        }
+      ]
     },
     {
       "id": 2,
       "username": "Oleg667",
       "email": "",
       "password": "password1",
-
+      "stuff_list":[
+        {
+          "name":"Ложка",
+          "info":"Большая такая (крупная).",
+          "date":"",
+          "photo":""
+        },
+        {
+          "name":"Вилка",
+          "info":"Маленькая такая (ну маленькая).",
+          "date":"",
+          "photo":""
+        },
+        {
+          "name":"Вложка",
+          "info":"Средние размеры.",
+          "date":"",
+          "photo":""
+        }
+      ]
     },    
     {
       "id": 3,
       "username": "Oleg668",
       "email": "",
       "password": "password1",
-
+      "stuff_list":[
+        {
+          "name":"Ложка",
+          "info":"Большая такая (крупная).",
+          "date":"",
+          "photo":""
+        },
+        {
+          "name":"Вилка",
+          "info":"Маленькая такая (ну маленькая).",
+          "date":"",
+          "photo":""
+        },
+        {
+          "name":"Вложка",
+          "info":"Средние размеры.",
+          "date":"",
+          "photo":""
+        }
+      ]
     }
   ]
 }
